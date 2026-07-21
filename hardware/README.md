@@ -1,11 +1,10 @@
-# Hardware
+# Hardware Resources
 
-This directory contains the hardware design resources for AgriMind.
+The hardware documentation for AgriMind includes:
 
-Future contents include:
+- System schematic designed using KiCad
+- Bill of Materials (BOM)
+- Hardware documentation
+- Component datasheets
 
-- Circuit diagrams
-- Wiring diagrams
-- Bill of Materials
-- PCB files (if available)
-- CAD models
+The complete BOM is available in the `hardware/bom` directory.
