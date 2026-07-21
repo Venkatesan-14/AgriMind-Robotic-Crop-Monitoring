@@ -1,8 +1,5 @@
 # Videos
 
-This folder contains demonstration videos of the project.
+## Demonstration
 
-Future contents include:
-
-- Working demonstration
-- Presentation clips
+A short demonstration video of the AgriMind prototype is available in the `videos` directory.
